@@ -6,4 +6,4 @@
 
 ## 🎯 About Me  
 I build **data-driven solutions** that solve real business problems.  
-My focus is not just on technology, but on **how data can create measurable value** for companies. 
+My focus is not just on technology, but on **how data can create measurable value** for companies.
